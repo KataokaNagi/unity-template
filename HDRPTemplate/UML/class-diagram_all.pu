@@ -1,0 +1,17 @@
+' @file      class-diagram_all.pu
+' @brief     Class diagram of all of HDRP Game
+' @auther    Kataoka Nagi
+' @date      2022-05-01 18:32:33
+' $Version   0.1
+' @par       History: 
+' @note      set GRAPHVIZ_DOT GRAPHVIZ_DOT=C:\Program Files (x86)\Graphviz2.38\bin\dot.exe
+' @see       [PlantUML使い方メモ](https://qiita.com/opengl-8080/items/98c510b8ca060bdd2ea3)
+' @see       [グローバルゲームジャムでクラス設計をやった話2020](https://qiita.com/toRisouP/items/6fdef63412db97970a11)
+
+@startuml class-diagram_all
+
+scale 1.5
+skinparam DefaultFontName メイリオ
+skinparam classAttributeIconSize 0
+
+@enduml
